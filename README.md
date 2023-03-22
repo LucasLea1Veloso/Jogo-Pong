@@ -1,4 +1,5 @@
-🎮 Jogo Pong (Curso Alura)
+🎮 Jogo Pong
+
 Projeto realizado durante Curso de JavaScript na plataforma Alura
 
 ![image](https://user-images.githubusercontent.com/128447270/226789239-16d9fcc7-55f5-45be-b181-8940f92f0577.png) 
