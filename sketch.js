@@ -127,4 +127,3 @@ function marcaPonto (){
   if (XBola < 15) {pontosDoOponente += 1; ponto.play();}
 }
 
-// Desenvolvimento de jogo atraves da Linguagem JavaScript
